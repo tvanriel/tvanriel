@@ -2,8 +2,6 @@
 
 I'm a software developer and I am passionate about my job and my code.  On my GitHub profile you will find what I have been writing recently.  I enjoy writing my code in [**Go**](https://github.com/topics/go), or in [**TypeScript**](https://github.com/topics/typescript) but I also know [**PHP**](https://github.com/topics/php), [**Python**](https://github.com/topics/python), [**C#**](https://github.com/topics/csharp), and [**Sass**](https://github.com/topics/sass).
 
-Currently I am looking for a new job so if you want to hire me, you should contact me on my e-mail address.
-
 ----
 I use [**Debian GNU/Linux**](https://github.com/topics/linux) as my main operating system because that's what I am most fluent at.  My first encounter with Linux was when I was about 15 years old and I still use it.
 
