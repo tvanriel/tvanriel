@@ -15,10 +15,6 @@ Out of love for opensource and wanting to tinker with software, I try to run my 
 ---
 To stay fit I go running.  My record is 34:52 on the 10km.  Besides running I also practice [**Tang Soo Do**](https://en.wikipedia.org/wiki/Tang_Soo_Do).
 
-| ![](https://raw.githubusercontent.com/tvanriel/tvanriel/main/WhatsApp%20Image%202021-03-16%20at%2013.38.58(1).jpeg) | ![](https://raw.githubusercontent.com/tvanriel/tvanriel/main/WhatsApp%20Image%202021-03-16%20at%2013.38.58.jpeg) | ![](https://raw.githubusercontent.com/tvanriel/tvanriel/main/WhatsApp%20Image%202021-03-16%20at%2013.37.48.jpeg)
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| Me and my girlfriend while hiking in the Austrian Alps                     | Me and my girlfriend while trailing past a waterfall in the Alps           | Me while I am out running                                                  |
-
 
 <!--
 
